@@ -91,3 +91,23 @@ header {
     font-weight: 300;
     letter-spacing: 2px;
 }
+/*---Footer*/
+
+footer {
+    height: 120px;
+    }
+    .social-media {
+        text-align: center;
+    }
+
+    .social-media li {
+        display: inline;
+    }
+
+    .social-media {
+        font-size: 140px;
+        margin: 1%;
+        padding: 6%;
+        color: #fff;
+        background-color: #75c8ae;
+    }
