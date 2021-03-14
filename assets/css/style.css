@@ -94,20 +94,18 @@ header {
 /*---Footer*/
 
 footer {
-    height: 120px;
+    padding: 30px;
+    background-color: #75c8ae;
     }
-    .social-media {
+    .socialmedia i {
         text-align: center;
     }
 
-    .social-media li {
-        display: inline;
-    }
+    
 
-    .social-media {
-        font-size: 140px;
+    .socialmedia i {
+        font-size: 50px;
         margin: 1%;
         padding: 6%;
-        color: #fff;
-        background-color: #75c8ae;
-    }
+        color: #ffecb4;
+}
