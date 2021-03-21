@@ -183,3 +183,10 @@ button[type="submit"] {
 
  /**Section*/
 
+  .info {
+      color: #000000;
+      margin-top: 25px;
+      margin-bottom: 25px;
+      font-family: "Oswald", sans-serif;
+
+  }
