@@ -13,7 +13,7 @@ The wireframes are made with Balsamiq.
 [Desktop Gallery]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1i.pdf")
 [Desktop Contact]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1iii.pdf")
 [iPad]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/iPadii.png")
-[iPhone]("https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/Mobile%20balsamiq.png")
+[iPhone]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/Mobile%20balsamiq.png")
 
 
 ## Features
@@ -38,7 +38,7 @@ Balsamiq
 For the testing, I used HMTL Validator and CSS Validator. Also, Google Lighthouse.
 Performance 80%, Accesability 87%, Best Practices 93%, SEO 91%
 [Lighthouse]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/perfomancelighthouse.png")
-[Validator]("https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/validatorhtml.png")
+[Validator]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/validatorhtml.png")
 
 
 ## Deployment
