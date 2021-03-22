@@ -9,6 +9,13 @@ The website is aimed at people who like this type of music. The colour palette m
 Audiophiles are always looking for the new "thing" or music they don't know. The user can find recommendations of new and classic songs, plus a link to my Soundcloud.
 The wireframes are made with Balsamiq.
 
+[Desktop Home]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1.pdf")
+[Desktop Gallery]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1i.pdf")
+[Desktop Contact]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1iii.pdf")
+[iPad]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/iPadii.png")
+[iPhone]("https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/Mobile%20balsamiq.png")
+
+
 ## Features
 ### Home
 The user will get an insight into my music career and my musical recommendations (because I wouldn't be able to update the project once is uplodaed to GitHub, some of the new tracks will be new ip to 23/03/2021).
@@ -29,13 +36,17 @@ Balsamiq
 
 ## Testing
 For the testing, I used HMTL Validator and CSS Validator. Also, Google Lighthouse.
+Performance 80%, Accesability 87%, Best Practices 93%, SEO 91%
+[Lighthouse]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/perfomancelighthouse.png")
+[Validator]("https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/validatorhtml.png")
 
 
 ## Deployment
 The deployment was done using Gitpod.
 
 ## Bugs
-Logo image was getting chopped only on desktop. Removed the "background: centre" to fix it. (Screenshot is on the images folder)
+Logo image was getting chopped only on desktop. Removed the "background: centre" to fix it. 
+[Screenshot]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/headlogcut.png")
 
 ## Credits
 ### Content
