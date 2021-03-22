@@ -51,7 +51,7 @@ Logo image was getting chopped only on desktop. Removed the "background: centre"
 ## Credits
 ### Content
 The text in all the project was written by myself.
-For the Nav banner, I used coding from Tutorial "The Resume Project" Mini Project with Bootstrap4.
+For the Header (Logo, Title and Nav banner, I used coding from Tutorial "The Resume Project" Mini Project with Bootstrap4 Code Institute.
 For the Gallery, I used coding from W3school.
 For Icons, Font Awesome.
 The ReadMe file template from the Code Institute.
