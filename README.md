@@ -7,7 +7,7 @@ The idea is to showcase myself, let the people know more about me and get some g
 The website is aimed at people who like this type of music. The colour palette mimicks the 70's as it is the origin of those beats. In this way I can show possible customers that even though I play mostly new tunes, I am rooted in the origins of the genre.
 
 Audiophiles are always looking for the new "thing" or music they don't know. The user can find recommendations of new and classic songs, plus a link to my Soundcloud.
-The wireframes are made with Balsamiq.
+The wireframes are made with Balsamiq, the pictures are availabe in the folder /assests/images and here:
 
 [Desktop Home]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1.pdf")
 [Desktop Gallery]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1i.pdf")
@@ -47,6 +47,8 @@ The deployment was done using Gitpod.
 ## Bugs
 Logo image was getting chopped only on desktop. Removed the "background: centre" to fix it. 
 [Screenshot]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/headlogcut.png")
+
+Removed empty css forlder as per Assesment Results LO3 3.9
 
 ## Credits
 ### Content
