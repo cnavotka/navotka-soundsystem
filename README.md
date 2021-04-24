@@ -10,10 +10,10 @@ Audiophiles are always looking for the new "thing" or music they don't know. The
 The wireframes are made with Balsamiq, the pictures are availabe in the folder /assests/images and here:
 
 ![Desktop Home](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1.pdf)
-![Desktop Gallery]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1i.pdf")
-![Desktop Contact]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1iii.pdf")
-![iPad]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/iPadii.png")
-![iPhone]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/Mobile%20balsamiq.png")
+![Desktop Gallery](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1i.pdf)
+![Desktop Contact](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1iii.pdf)
+![iPad](htpps://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/iPadii.png)
+![iPhone](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/Mobile%20balsamiq.png)
 
 
 ## Features
@@ -37,8 +37,8 @@ Balsamiq
 ## Testing
 For the testing, I used HMTL Validator and CSS Validator. Also, Google Lighthouse.
 Performance 80%, Accesability 87%, Best Practices 93%, SEO 91%
-![Lighthouse]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/perfomancelighthouse.png")
-![Validator]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/validatorhtml.png")
+![Lighthouse](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/perfomancelighthouse.png)
+![Validator](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/validatorhtml.png)
 
 
 ## Deployment
@@ -46,7 +46,7 @@ The deployment was done using Gitpod.
 
 ## Bugs
 Logo image was getting chopped only on desktop. Removed the "background: centre" to fix it. 
-![Screenshot]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/headlogcut.png")
+![Screenshot](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/headlogcut.png)
 
 Removed empty css folder as per Assesment Results LO3 3.9
 
