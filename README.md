@@ -9,7 +9,7 @@ The website is aimed at people who like this type of music. The colour palette m
 Audiophiles are always looking for the new "thing" or music they don't know. The user can find recommendations of new and classic songs, plus a link to my Soundcloud.
 The wireframes are made with Balsamiq, the pictures are availabe in the folder /assests/images and here:
 
-![Desktop Home](https//:github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1.pdf)
+![Desktop Home](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1.pdf)
 ![Desktop Gallery]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1i.pdf")
 ![Desktop Contact]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1iii.pdf")
 ![iPad]("github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/iPadii.png")
@@ -61,7 +61,7 @@ For the Hover effect, I used coding from CSS Tricks.
 
 ### Media
 All the pictures in the project were taken by myself.
-The logo (Bear with skateboard and boombox) was used with permission of and designed by Saoirse Mc Dermott. Her work is available at [Society 6]("society6.com/saoirsesushi")
+The logo (Bear with skateboard and boombox) was used with permission of and designed by Saoirse Mc Dermott. Her work is available at [Society 6](https://society6.com/saoirsesushi)
 
 ### Acknowledgements
 
