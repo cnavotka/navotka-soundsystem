@@ -9,7 +9,7 @@ The website is aimed at people who like this type of music. The colour palette m
 Audiophiles are always looking for the new "thing" or music they don't know. The user can find recommendations of new and classic songs, plus a link to my Soundcloud.
 The wireframes are made with Balsamiq, the pictures are availabe in the folder /assests/images and here:
 
-![Desktop Home](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1.pdf)
+![Desktop Home](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1home.png)
 ![Desktop Gallery](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1i.pdf)
 ![Desktop Contact](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1iii.pdf)
 ![iPad](htpps://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/iPadii.png)
