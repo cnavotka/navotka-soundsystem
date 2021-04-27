@@ -7,7 +7,7 @@ The idea is to showcase myself, let the people know more about me and get some g
 The website is aimed at people who like this type of music. The colour palette mimicks the 70's as it is the origin of those beats. In this way I can show possible customers that even though I play mostly new tunes, I am rooted in the origins of the genre.
 
 Audiophiles are always looking for the new "thing" or music they don't know. The user can find recommendations of new and classic songs, plus a link to my Soundcloud.
-The wireframes are made with Balsamiq, the pictures are availabe in the folder /assests/images and here:
+The wireframes are made with Balsamiq, the pictures are availabe in the folder /assets/images and here:
 
 ![Desktop Home](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1home.png)
 ![Desktop Gallery](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1.pdf)
@@ -18,7 +18,7 @@ The wireframes are made with Balsamiq, the pictures are availabe in the folder /
 
 ## Features
 ### Home
-The user will get an insight into my music career and my musical recommendations (because I wouldn't be able to update the project once is uplodaed to GitHub, some of the new tracks will be new ip to 23/03/2021).
+The user will get an insight into my music career and my musical recommendations (because I wouldn't be able to update the project once is uploaded to GitHub, some of the new tracks will be new ip to 23/03/2021).
 
 ### Gallery
 
@@ -49,6 +49,7 @@ Logo image was getting chopped only on desktop. Removed the "background: centre"
 ![Screenshot](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/headlogcut.png)
 
 Removed empty css folder as per Assesment Results LO3 3.9
+Added collapsable navbar as per Assesment Results LO2 2.6
 
 ## Credits
 ### Content
