@@ -3,6 +3,13 @@
 This project is based on myself. I am a DJ and producer. The styles of music that I play are dub, breakbeat, hip hop, bass and experimental.
 The idea is to showcase myself, let the people know more about me and get some gigs.
 
+## Project Resubmission
+This is a resubmission, as per I talked with Student Care, I only need to change the points I failed. 
+LO 2 2.2 Fails to pass through the official validator (Jigsaw) by a single case.
+LO 2 2.6 Bootstrap grid isn't utilized well on the gallery pages for small screen sizes. The navbar should have been ideally a collapsible burger bar which would allow users to navigate sections without any hassle.
+LO 3 3.2 Wireframes or relevant screenshots are missing.
+LO 3 3.9 Empty CSS file should be removed.
+
 ## UX
 The website is aimed at people who like this type of music. The colour palette mimicks the 70's as it is the origin of those beats. In this way I can show possible customers that even though I play mostly new tunes, I am rooted in the origins of the genre.
 
@@ -18,7 +25,7 @@ The wireframes are made with Balsamiq, the pictures are availabe in the folder /
 
 ## Features
 ### Home
-The user will get an insight into my music career and my musical recommendations (because I wouldn't be able to update the project once is uploaded to GitHub, some of the new tracks will be new ip to 23/03/2021).
+The user will get an insight into my music career and my musical recommendations (because I wouldn't be able to update the project once is uploaded to GitHub, some of the new tracks will be new up to 23/03/2021).
 
 ### Gallery
 
@@ -36,10 +43,15 @@ Balsamiq
 
 ## Testing
 For the testing, I used HMTL Validator and CSS Validator. Also, Google Lighthouse.
-Performance 80%, Accesability 87%, Best Practices 93%, SEO 91%
-![Lighthouse](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/perfomancelighthouse.png)
+Performance 98%, Accesability 93%, Best Practices 93%, SEO 91%
+![Lighthouse](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/lighthouse%20updated%20performance.png)
 ![Validator](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/validatorhtml.png)
 
+No errors in Jigsaw, just the Bootstrap file
+![Bootstrap](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/error%20validator%20only%20bootstrap.png)
+
+As per CI, should ignore that error
+![Answer](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/explanation%20bootstrap%20error.png)
 
 ## Deployment
 The deployment was done using Gitpod.
