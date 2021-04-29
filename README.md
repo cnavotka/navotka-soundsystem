@@ -5,10 +5,10 @@ The idea is to showcase myself, let the people know more about me and get some g
 
 ## Project Resubmission
 This is a resubmission, as per I talked with Student Care, I only need to change the points I failed. 
-LO 2 2.2 Fails to pass through the official validator (Jigsaw) by a single case.
-LO 2 2.6 Bootstrap grid isn't utilized well on the gallery pages for small screen sizes. The navbar should have been ideally a collapsible burger bar which would allow users to navigate sections without any hassle.
-LO 3 3.2 Wireframes or relevant screenshots are missing.
-LO 3 3.9 Empty CSS file should be removed.
+* LO 2 2.2 Fails to pass through the official validator (Jigsaw) by a single case.
+* LO 2 2.6 Bootstrap grid isn't utilized well on the gallery pages for small screen sizes. The navbar should have been ideally a collapsible burger bar which would allow users to navigate sections without any hassle. Additional: External links should open up in a new tab.
+* LO 3 3.2 Wireframes or relevant screenshots are missing.
+* LO 3 3.9 Empty CSS file should be removed.
 
 ## UX
 The website is aimed at people who like this type of music. The colour palette mimicks the 70's as it is the origin of those beats. In this way I can show possible customers that even though I play mostly new tunes, I am rooted in the origins of the genre.
@@ -36,10 +36,10 @@ The user can contact to get info about coming shows, releases and music tips.
 
 ## Technologies Used
 
-HTML, CSS and Bootstrap
-Gitpod
-Github 
-Balsamiq 
+* HTML, CSS and Bootstrap
+* Gitpod
+* Github 
+* Balsamiq 
 
 ## Testing
 For the testing, I used HMTL Validator and CSS Validator. Also, Google Lighthouse.
@@ -60,21 +60,30 @@ The deployment was done using Gitpod.
 Logo image was getting chopped only on desktop. Removed the "background: centre" to fix it. 
 ![Screenshot](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/headlogcut.png)
 
-Removed empty css folder as per Assesment Results LO3 3.9
-Added collapsable navbar as per Assesment Results LO2 2.6
+* Removed empty css folder as per Assesment Results LO3 3.9
+* Added collapsable navbar as per Assesment Results LO2 2.6
+* Fixed Bootstrap features in Galery file.
+
+Fixed bug that appears in the validator, removed word "but"
+![Bug](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/error%20css%20style.png)
+
+Fixed bug, removed the attirbute target form img
+![Bug](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/error%20target%20-blank.png)
+
+
 
 ## Credits
 ### Content
-The text in all the project was written by myself.
-For the Header (Logo, Title and Nav banner, I used coding from Tutorial "The Resume Project" Mini Project with Bootstrap4 Code Institute.
-For the Gallery, I used coding from W3school.
-For Icons, Font Awesome.
-The ReadMe file template from the Code Institute.
-For the Hover effect, I used coding from CSS Tricks.
+* The text in all the project was written by myself.
+* For the Header (Logo, Title and Nav banner, I used coding from Tutorial "The Resume Project" Mini Project with Bootstrap4 Code Institute.
+* For the Gallery, I used coding from W3school.
+* For Icons, Font Awesome.
+* The ReadMe file template from the Code Institute.
+* For the Hover effect, I used coding from CSS Tricks.
 
 ### Media
-All the pictures in the project were taken by myself.
-The logo (Bear with skateboard and boombox) was used with permission of and designed by Saoirse Mc Dermott. Her work is available at [Society 6](https://society6.com/saoirsesushi)
+* All the pictures in the project were taken by myself.
+* The logo (Bear with skateboard and boombox) was used with permission of and designed by Saoirse Mc Dermott. Her work is available at [Society 6](https://society6.com/saoirsesushi)
 
 ### Acknowledgements
 
