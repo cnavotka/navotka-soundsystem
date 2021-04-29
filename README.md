@@ -21,12 +21,16 @@ The wireframes are made with Balsamiq, the pictures are availabe in the folder /
 
 ![Desktop Home](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1home.png)
 
+Gallery
 ![Desktop Gallery](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1.pdf)
 
+COntact
 ![Desktop Contact](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1iii.pdf)
 
+iPad
 ![iPad](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/iPadii.png)
 
+iPhone
 ![iPhone](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/Mobile%20balsamiq.png)
 
 
@@ -76,7 +80,7 @@ Logo image was getting chopped only on desktop. Removed the "background: centre"
 Fixed bug that appears in the validator, removed word "but"
 ![Bug](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/error%20css%20style.png)
 
-Fixed bug, removed the attribute target form img
+Fixed bug, removed the attribute target from img
 ![Bug](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/error%20target%20-blank.png)
 
 
