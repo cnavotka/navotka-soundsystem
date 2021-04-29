@@ -20,9 +20,13 @@ Audiophiles are always looking for the new "thing" or music they don't know. The
 The wireframes are made with Balsamiq, the pictures are availabe in the folder /assets/images and here:
 
 ![Desktop Home](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1home.png)
+
 ![Desktop Gallery](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1.pdf)
+
 ![Desktop Contact](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/BalsamiqMS1iii.pdf)
-![iPad](htpps://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/iPadii.png)
+
+![iPad](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/iPadii.png)
+
 ![iPhone](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/Mobile%20balsamiq.png)
 
 
