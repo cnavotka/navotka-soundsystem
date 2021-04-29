@@ -3,6 +3,9 @@
 This project is based on myself. I am a DJ and producer. The styles of music that I play are dub, breakbeat, hip hop, bass and experimental.
 The idea is to showcase myself, let the people know more about me and get some gigs.
 
+Finished project in different devices:
+![Project](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/finishedproject.png)
+
 ## Project Resubmission
 This is a resubmission, as per I talked with Student Care, I only need to change the points I failed. 
 * LO 2 2.2 Fails to pass through the official validator (Jigsaw) by a single case.
