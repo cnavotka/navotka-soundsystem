@@ -53,6 +53,8 @@ No errors in Jigsaw, just the Bootstrap file
 As per CI, should ignore that error
 ![Answer](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/explanation%20bootstrap%20error.png)
 
+I tested it in a Macbook Pro with OS Big Sur, iPad and iPhone.
+
 ## Deployment
 The deployment was done using Gitpod.
 
@@ -67,7 +69,7 @@ Logo image was getting chopped only on desktop. Removed the "background: centre"
 Fixed bug that appears in the validator, removed word "but"
 ![Bug](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/error%20css%20style.png)
 
-Fixed bug, removed the attirbute target form img
+Fixed bug, removed the attribute target form img
 ![Bug](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/error%20target%20-blank.png)
 
 
