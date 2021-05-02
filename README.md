@@ -14,7 +14,8 @@ This is a resubmission, as per I talked with Student Care, I only need to change
 * LO 3 3.9 Empty CSS file should be removed.
 
 ## UX
-The website is aimed at people who like this type of music. The colour palette mimicks the 70's as it is the origin of those beats. In this way I can show possible customers that even though I play mostly new tunes, I am rooted in the origins of the genre.
+The website is aimed at people who like this type of music. The colour palette mimicks the 70's as it is the origin of those beats. In this way I can show possible customers that even though I play mostly new tunes, I am rooted in the origins of the genre. I choose to keep the logo in one side and title and navbar off centre, to get the vibe of the old album covers, like this one:
+![Cover](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/album%20cover%20sample.png)
 
 Audiophiles are always looking for the new "thing" or music they don't know. The user can find recommendations of new and classic songs, plus a link to my Soundcloud.
 The wireframes are made with Balsamiq, the pictures are availabe in the folder /assets/images and here:
@@ -33,6 +34,9 @@ iPad
 iPhone
 ![iPhone](https://github.com/cnavotka/navotka-soundsystem/blob/master/assets/images/Mobile%20balsamiq.png)
 
+
+
+At the end I decided to remove the logo for small screens, seems to take lot of screen and I don't like how looks when I reduced the size.
 
 ## Features
 ### Home
